@@ -1,3 +1,28 @@
 body {
     padding-top: 5rem;
 }
+
+#contact-form > * > span {
+    color: red;
+    font-weight: bold;
+} 
+
+#contact-form > * > label {
+    font-weight: bold;
+}
+
+#contact-form > * > input {
+    width: 30%;
+    
+}
+
+#contact-form > * > textarea {
+    width: 60%;
+    min-height: 15rem;
+}
+
+#send-btn {
+    padding: 0.5rem 2rem;
+}
+
+
